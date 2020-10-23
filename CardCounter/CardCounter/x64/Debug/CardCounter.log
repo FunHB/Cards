@@ -1,0 +1,13 @@
+﻿  CardCounter.cpp
+C:\Users\MSI\Desktop\asd\CardCounter\CardCounter\CardCounter\File.h(32,15): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+C:\Users\MSI\Desktop\asd\CardCounter\CardCounter\CardCounter\Cards.h(49,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Cards.cpp
+C:\Users\MSI\Desktop\asd\CardCounter\CardCounter\CardCounter\File.h(32,15): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+C:\Users\MSI\Desktop\asd\CardCounter\CardCounter\CardCounter\Cards.h(49,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Exp.cpp
+C:\Users\MSI\Desktop\asd\CardCounter\CardCounter\CardCounter\File.h(32,15): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+C:\Users\MSI\Desktop\asd\CardCounter\CardCounter\CardCounter\Cards.h(49,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  File.cpp
+C:\Users\MSI\Desktop\asd\CardCounter\CardCounter\CardCounter\File.h(32,15): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  Generating Code...
+  CardCounter.vcxproj -> C:\Users\MSI\Desktop\asd\CardCounter\CardCounter\x64\Debug\CardCounter.exe
