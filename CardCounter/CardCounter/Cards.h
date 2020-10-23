@@ -13,6 +13,7 @@ protected:
 	string m_card;
 	string m_cardRank;
 	vector<vector<string>> cardTab;
+	vector<string> temp;
 
 public:
 	Cards();

@@ -18,8 +18,9 @@ Cards::Cards(File file) {
 void Cards::setCardTab(File cards) {
 	m_cards = cards.getFile();
 	for (int i = 0; i < cards.elementCounter(); i++) {
-		cardTab[i].push_back(m_cards.substr(0, m_cards.find('(')));
-		cardTab[i].push_back(m_cards.substr(m_cards.find('(') + 1, m_cards.find(')')));
+		temp.push_back(m_cards.substr(0, m_cards.find('(')));
+		temp.push_back(m_cards.substr(m_cards.find('(') + 1, m_cards.find(')')));
+		cardTab.push_back(temp);
 		m_cards.erase(0, m_cards.find(' ') + 1);
 	}
 }
